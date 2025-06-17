@@ -34,7 +34,7 @@ Clone the repository:
 bash
 Copy
 Edit
-git clone https://github.com/your-username/stopwatch-app.git
+git clone https://github.com/AdityaDahake33/SCT_WD_2
 cd stopwatch-app
 Open index.html in any web browser.
 
